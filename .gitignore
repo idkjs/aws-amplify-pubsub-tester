@@ -1,0 +1,16 @@
+node_modules
+build
+coverage
+Config
+lerna-debug.log
+lib/
+lib-esm/
+dist/
+es/
+.DS_Store
+.vscode
+.idea
+*.log
+.npm/
+package-lock.json
+yarn.lock
